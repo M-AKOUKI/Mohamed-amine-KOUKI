@@ -1,5 +1,5 @@
-(![Ajouter un titre](https://github.com/user-attachments/assets/7cbf0796-da7a-4127-a59a-008addc9ad77)
-)
+![Ajouter un titre](https://github.com/user-attachments/assets/7cbf0796-da7a-4127-a59a-008addc9ad77)
+
 <h1 align="center">Hi 👋, I'm Mohamed-amine KOUKI</h1>
 <h3 align="center">I'm currently learning different types of languages</h3>
 
